@@ -1,3 +1,5 @@
+#This project has moved here: https://github.com/houseelectricsopen/cloudformation2kotlin#
+
 # Cloudformation2Kotlin
 This project offers a Kotlin DSL for AWS cloudformation. Kotlin brings the advantages of type safety, IDE autocomplete and the ability to embed code within templates.  This is a work in progress - please provide feedback!  
 
